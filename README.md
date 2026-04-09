@@ -27,9 +27,9 @@
 
 ### 🔭 Current Focus & Projects
 
-- 🏨 **Built:** [Hotel Booking Platform](https://github.com/YOUR_GITHUB_USERNAME) — full-stack app with dual Guest & Owner interface, Clerk Auth (MFA), revenue analytics dashboard, and role-based access control *(React.js + Tailwind CSS + CRUD)*
-- 🌦️ **Built:** [AI Weather App](https://github.com/YOUR_GITHUB_USERNAME) — smart forecasting tool with real-time AI-powered meteorological API integration and 99.9% uptime
-- 🤖 **Built:** [AI Portfolio Builder](https://github.com/YOUR_GITHUB_USERNAME) at AI Wallah — LLM-powered tool using **OpenAI API** and Prompt Engineering to auto-generate recruiter-optimized project descriptions
+- 🏨 **Built:** [Hotel Booking Platform](https://github.com/Divyak-57/Hotel-Booking) — full-stack app with dual Guest & Owner interface, Clerk Auth (MFA), revenue analytics dashboard, and role-based access control *(React.js + Tailwind CSS + CRUD)*
+- 🌦️ **Built:** [AI Weather App](https://aiweatherapp-b2a73.web.app/) — smart forecasting tool with real-time AI-powered meteorological API integration and 99.9% uptime
+- 🤖 **Built:** [AI Portfolio Builder]( https://lnkd.in/ggmX83ZK) at AI Wallah — LLM-powered tool using **OpenAI API** and Prompt Engineering to auto-generate recruiter-optimized project descriptions
 - 💻 **DSA Progress:** Solved **200+ problems on LeetCode** using **Java**, focusing on data structures and algorithmic efficiency
 
 ---
@@ -72,11 +72,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Divyak-57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Divyak-57&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Divyak-57&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
@@ -102,13 +102,13 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divya-kumari-492a2028a/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyakumaridk05@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](YOUR_LEETCODE_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Divya_kumari04/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Divyak-57)
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6C63FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=https://github.com/Divyak-57&label=Profile%20Views&color=6C63FF&style=flat-square" />
 </p>
