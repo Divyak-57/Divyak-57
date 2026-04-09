@@ -110,5 +110,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=https://github.com/Divyak-57&label=Profile%20Views&color=6C63FF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=Divyak-57&label=Profile%20Views&color=6C63FF&style=flat-square" />
 </p>
