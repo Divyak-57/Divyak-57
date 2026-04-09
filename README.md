@@ -8,7 +8,7 @@
     </td>
     <td width="25%" align="center">
       <!-- Replace the src below with your own photo URL -->
-      <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID" width="200px" style="border-radius: 50%;" />
+      <img src="https://avatars.githubusercontent.com/u/194262767?s=400&u=2f1263b6931a0c5bf33cfe219d1e55cfa96e0c88&v=4" width="200px" style="border-radius: 50%;" />
     </td>
   </tr>
 </table>
@@ -69,17 +69,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Divyak-57&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyak-57&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyak-57&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
 
 ### 🏆 Achievements & Extracurriculars
 
@@ -109,6 +99,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Divyak-57&label=Profile%20Views&color=6C63FF&style=flat-square" />
-</p>
