@@ -4,7 +4,7 @@
       <h1>Hi there, I'm Divya Kumari 👋</h1>
       <p><strong>2nd Year B.Tech CSE @ IEM Kolkata | Full-Stack & Generative AI Developer</strong></p>
       <p>I build full-stack web applications and AI-powered tools using LLMs and the OpenAI API. Passionate about clean UI, efficient code, and shipping production-grade projects.</p>
-      <p>🚀 <b>200+ LeetCode Solved</b> | 🎓 <b>CGPA: 9.078</b> | ☁️ <b>Oracle AI Certified</b></p>
+      <p>🚀 <b>200+ LeetCode Solved</b> | 🎓 <b>CGPA: 9.078</b> 
     </td>
     <td width="25%" align="center">
       <!-- Replace the src below with your own photo URL -->
