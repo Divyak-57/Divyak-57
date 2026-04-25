@@ -2,7 +2,7 @@
   <tr>
     <td width="75%">
       <h1>Hi there, I'm Divya Kumari 👋</h1>
-      <p><strong>3rd Year B.Tech CSE @ IEM Kolkata | Full-Stack & Generative AI Developer</strong></p>
+      <p><strong>3rd Year B.Tech CSE(IOT) @ IEM Kolkata | Full-Stack & Generative AI Developer</strong></p>
       <p>I build full-stack web applications and AI-powered tools using LLMs and the OpenAI API. Passionate about clean UI, efficient code, and shipping production-grade projects.</p>
       <p>🚀 <b>200+ LeetCode Solved</b> | 🎓 <b>CGPA: 9.078</b> 
     </td>
